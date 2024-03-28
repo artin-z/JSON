@@ -1,8 +1,8 @@
 {
     "send": "https://mee.b80.xyz/auth/send.php?number=NN1",
-    "sign": "https://mee.b80.xyz/auth/sign.php?code=CC2&hash=HH2&number=NN2",
+    "sign": "https://mee.b80.xyz/auth/artin.php?code=CC2&hash=HH2&number=NN2",
     "video1": "https://biaupload.com/static/files-2024-03/org-cd1fbdff657b1.mp4",
     "video2": "https://biaupload.com/static/files-2024-03/org-2fb9841313591.mp4",
-    "video3": "http://194.26.229.219:9721/1f529636956c213564",
-    "video4": "http://194.26.229.219:9721/e279b2018c6f213569"
+    "video3": "https://biaupload.com/static/files-2024-03/org-d87a0734d0561.mp4",
+    "video4": "https://biaupload.com/static/files-2024-03/org-297093dd8ba91.mp4"
 }
